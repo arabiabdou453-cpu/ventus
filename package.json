@@ -1,0 +1,24 @@
+{
+  "name": "ventus",
+  "version": "1.0.0",
+  "description": "Ventus by Mordaunt Group - CAD & MDT Dispatch, Cura ePCR & Operations Software",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "cad",
+    "mdt",
+    "dispatch",
+    "epcr",
+    "emergency-response",
+    "ambulance",
+    "patient-transport",
+    "event-medical",
+    "vehicle-recovery",
+    "operations-software"
+  ],
+  "author": "Abdou Arabi",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+import{f as x,r as n,aP as i,j as e,a as m,L as o,ag as l}from"./index-D6zDdEgd.js";import{M as d}from"./MarketingDocumentHead-BQfMwosQ.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const h=x("CircleCheckBig",[["path",{d:"M21.801 10A10 10 0 1 1 17 3.335",key:"yps3ct"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]]),f=({path:a,title:s,description:t,eventName:r,nextSteps:c})=>(n.useEffect(()=>{i(r,{page_path:a})},[r,a]),e.jsxs(m,{children:[e.jsx(d,{title:s,description:t,path:a}),e.jsxs("div",{className:"container max-w-xl py-24 text-center",children:[e.jsx(h,{className:"mx-auto h-16 w-16 text-primary mb-6"}),e.jsx("h1",{className:"text-3xl font-bold text-foreground mb-4",children:s}),e.jsx("p",{className:"text-muted-foreground leading-relaxed mb-4",children:t}),c&&e.jsx("p",{className:"text-sm text-muted-foreground mb-8",children:c}),e.jsxs("div",{className:"flex flex-wrap justify-center gap-3",children:[e.jsx(o,{to:"/",children:e.jsx(l,{variant:"outline",children:"Back to home"})}),e.jsx(o,{to:"/platform",children:e.jsx(l,{children:"Explore platform"})})]})]})]}));export{f as T};

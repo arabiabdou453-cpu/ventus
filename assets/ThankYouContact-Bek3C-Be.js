@@ -1,0 +1,1 @@
+import{j as t}from"./index-D6zDdEgd.js";import{T as e}from"./ThankYouPage-Dn-jyv5-.js";import"./MarketingDocumentHead-BQfMwosQ.js";const n=()=>t.jsx(e,{path:"/thank-you/contact",title:"Message received",description:"Thank you for getting in touch. A member of the Ventus team will respond as soon as possible.",eventName:"contact_complete"});export{n as default};
